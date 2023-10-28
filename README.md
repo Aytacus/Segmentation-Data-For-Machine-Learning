@@ -1,2 +1,2 @@
 # Segmentation Data For Machine Learning
- Segmentation Data For Machine Learning
+## this project was solved using K-Means Clustering. It is written by Python. There are two ways to visualize. The first is the method in classic koggle and which I prefer. The second was the visualization style of my friend Furkan (githup name furkanyaylaz). Use whichever you like.
